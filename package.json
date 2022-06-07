@@ -1,0 +1,14 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open"
+  },
+  "author": "Zoran Tasic",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.0.3"
+  }
+}
